@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+.text-ok{font-family:'Merriweather',sans-serif}
+.pt-15{padding-top:5px;}
+.pt-10{padding-top:50px;}
+.pt-20{padding-top:60px}
+.keahlian{padding-top:30px;}
+.description{font-family:'Poppins',sans-serif;padding-top:10px;}
+.text-dominant{font-family:'Poppins',sans-serif;}
+.img-porto{
+    width:90%;
+    height:90%;
+}
+.ptx-8{
+    padding-top:0;
+}
+@media only screen and (max-width: 600px) {
+    .pt-15{padding-top:2px;}
+  }
+  .ptx-8{
+    padding-top:5px;
+  }
+  .img-porto{
+    width:90%;
+    height:100%;
+    padding-left:40px;
+  }

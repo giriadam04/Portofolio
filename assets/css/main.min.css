@@ -6,6 +6,11 @@
 .keahlian{padding-top:30px;}
 .description{font-family:'Poppins',sans-serif;padding-top:10px;}
 .text-dominant{font-family:'Poppins',sans-serif;}
+.card-header{
+  border:none;
+  background-color:#1e293b;
+  color:#fff;
+}
 .img-porto{
     width:90%;
     height:90%;
